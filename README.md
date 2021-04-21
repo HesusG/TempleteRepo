@@ -8,7 +8,7 @@ Dar la bienvenida al alumno describiendo el contexto general del módulo.
 
 Describir el objetivo general del módulo.
 
-## :gear: Requerimientosa
+## :gear: Requerimientos
 
 Describir los requerimientos en caso de que el módulo lo requiera.
 
