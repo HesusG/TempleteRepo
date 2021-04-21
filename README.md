@@ -1,6 +1,6 @@
 # Nombre de módulo
 
-## :wave: Bienvenida
+## :wave: Bienvenid@s
 
 Dar la bienvenida al alumno describiendo el contexto general del módulo.
 
