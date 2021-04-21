@@ -2,23 +2,23 @@
 
 ## :wave: Bienvenid@s
 
-Dar la bienvenida al alumno describiendo el contexto general del módulo.
+Dar la bienvenida al alumno describiendo el contexto general del módulo. (Borrar está linea una vez se hay leido) 
 
 ## :dart: Objetivo
 
-Describir el objetivo general del módulo.
+Describir el objetivo general del módulo **Obligatorio**. (Borrar está linea una vez se hay leido) 
 
 ## :gear: Requerimientos
 
-Describir los requerimientos en caso de que el módulo lo requiera.
+Describir los requerimientos en caso de que el módulo lo requiera **Obligatorio**. (Borrar está linea una vez se hay leido) 
 
 ## 💻 Proyecto
 
-Describir el proyecto en caso de que el módulo lo requiera.
+Describir el proyecto en caso de que el módulo lo requiera **Obligatorio** .  (Borrar está linea una vez se hay leido)
 
 ## :bookmark_tabs: Temario
 
-##### Describir el temario del módulo (Borrar está linea una vez se hay leido)
+##### Describir el temario del módulo **Obligatorio** . (Borrar está linea una vez se hay leido) 
 
 - [`Sesión 01:` Nombre de la sesión 01]()
 - [`Sesión 02:` Nombre de la sesión 02]()

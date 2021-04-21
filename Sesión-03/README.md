@@ -16,7 +16,7 @@ Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar est�
 
 ## 🎩 Buenas prácticas
 
-Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así borrar está linea una vez se hay leido
+Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así borrar está intrucción una vez se haya leido.
 
 ## 📂 Organización de la clase
 
