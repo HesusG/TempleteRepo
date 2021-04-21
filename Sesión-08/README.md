@@ -1,5 +1,5 @@
 
-# Sesión 01: Fundamentos de Cómputo en la Nube
+# Sesión #: Nombre de la sesión
 
 ## :dart: Objetivos
 
