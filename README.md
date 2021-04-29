@@ -2,7 +2,7 @@
 
 ## :wave: Bienvenid@s
 
-Dar la bienvenida al alumno describiendo el contexto general del módulo. (Borrar está linea una vez se hay leido) 
+Dar la bienvenida al alumno describiendo el contexto general del módulo. (Borrar está linea una vez se hay leido. Está información se basa en el alance que se encuentra en la ficaha técnica de cada módulo.
 
 ## :dart: Objetivo
 
@@ -16,7 +16,7 @@ Describir los requerimientos en caso de que el módulo lo requiera **Obligatorio
 
 Describir el proyecto en caso de que el módulo lo requiera **Obligatorio** .  (Borrar está linea una vez se hay leido)
 
-## :bookmark_tabs: Temario
+## :bookmark_tabs: Sesiones
 
 ##### Describir el temario del módulo **Obligatorio** . (Borrar está linea una vez se hay leido) 
 
