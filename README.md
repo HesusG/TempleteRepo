@@ -2,7 +2,7 @@
 
 ## :wave: Bienvenid@s
 
-Dar la bienvenida al alumno describiendo el contexto general del módulo. (Borrar está linea una vez se hay leido. Está información se basa en el alance que se encuentra en la ficaha técnica de cada módulo.
+Dar la bienvenida al alumno describiendo el contexto general del módulo. (Borrar está linea una vez se hay leido. **Está información se basa en el alance que se encuentra en la ficaha técnica de cada módulo.**
 
 ## :dart: Objetivo
 
