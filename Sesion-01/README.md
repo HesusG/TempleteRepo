@@ -1,4 +1,4 @@
-## Sesión 1: Introducción a Android 🤖
+## Sesión 1: Nombre de sesión 🤖
 
 <img src="../images/android-kotlin.png" align="right" height="120" hspace="10">
 <div style="text-align: justify;">
@@ -57,7 +57,7 @@ Basta de emulaciones, ahora veamos como funciona en el mundo real. Nuestra app, 
 
 ### 3. Postwork :memo:
 
-Esta es una guía anexa de consejos para una mejor planeación de tu proyecto para este módulo.
+Encuentra las indicaciones y consejos para reflejar los avances de tu proyecto de este módulo.
 
 - [**`POSTWORK SESIÓN 1`**](Postwork/Readme.md)
 
