@@ -1,34 +1,68 @@
+## Sesión 1: Introducción a Android 🤖
 
-# Sesión #: Nombre de la sesión
+<img src="../images/android-kotlin.png" align="right" height="120" hspace="10">
+<div style="text-align: justify;">
 
-## :dart: Objetivos
+### 1. Objetivos :dart: 
 
-Agregar los objetivos de las sesión (Mínimo poner tres objetivos y Borrar está linea una vez se hay leido )
+- Reconocer el IDE Android Studio con el que desarrollan aplicaciones móviles.
+- Conocer la estructura de un proyecto android y todos los archivos generados por el IDE
 
-- Objetivo 1
-- Objetivo 2
-- Objetivo 3
+### 2. Contenido :blue_book:
 
-## ⚙ Requisitos
+Android Studio te ayudará a desarrollar tu app más productivamente a escala. Android Studio ofrece las herramientas más rápidas para crear apps de Android. Codifica más rápido. Codifica con seguridad. Crea el mejor código. Elimina tareas tediosas. Compila sin límites.
 
-+ Agregar los requisitos de la sesión 
-+ Agregar el link de descarga en caso de ser necesario para la sesión (Borrar estás lineas una vez se hayan leido)
+---
 
-## 🎩 Buenas prácticas
+<img src="images/tools.png" align="right" height="90"> 
 
-Agregar buenas prácticas en caso de que la sesión lo requierea, de no ser así borrar está intrucción una vez se haya leido.
+#### <ins>Tema 1</ins>
 
-## 📂 Organización de la clase
+Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, viendo el significado de los distintos campos y opciones para su configuración.
 
-Agregar los ejemplos y retos que va a requerir la sesión (Borrar está linea una vez se hay leido)
+- [**`EJEMPLO 1`**](Ejemplo-01/Readme.md)
 
-- [Ejemplo 01:  Nombre del ejemplo](./Ejemplo-01/README.md)
-    - [Reto 01: Nombre del reto 01](./Reto-01/README.md)
-    - [Reto  02: Nombre del reto 02](./Reto-02/README.md)
-- [Ejemplo 02: Nombre del ejemplo 02](./Ejemplo-02/README.md)
-    - [Reto 03: Nombre del reto 03](./Reto-03/README.md)
-- [Postwork: Nombre del postwork](./Postwork/README.md)
+---
+
+<img src="images/structure.png" align="right" height="90"> 
+
+#### <ins>Tema 2</ins>
+
+Una vez que el proyecto está creado, la estructura o forma en la que se organiza es de suma importancia. No sólo nos ayuda a mantener nuestro código organizado, sino que también es importante para el funcionamiento de nuestra nueva app.
+
+- [**`EJEMPLO 2`**](Ejemplo-02/Readme.md)
+
+---
+
+<img src="images/emulator.jpg" align="right" height="90"> 
+
+#### <ins>Tema 3</ins>
+
+Ahora que tenemos mayor conocimiento de nuestro proyecto, vamos a configurar un emulador de algún dispositivo móvil para poder correr nuestra aplicación! :iphone:. Es decir, vamos a correr un dispositivo móvil virtual en nuestra computadora para simular la funcionalidad de nuestra app.
+
+- [**`EJEMPLO 3`**](Ejemplo-03/Readme.md)
+- [**`RETO 1`**](Reto-01/Readme.md)
+
+---
+
+<img src="images/chaomi.png" align="right" height="110"> 
+
+#### <ins>Tema 4</ins>
+
+Basta de emulaciones, ahora veamos como funciona en el mundo real. Nuestra app, por muy sencilla que sea ya está lista para ser instalada en un dispositivo móvil y para verla en acción.
+
+- [**`EJEMPLO 4`**](Ejemplo-04/Readme.md)
+
+---
+
+### 3. Postwork :memo:
+
+Esta es una guía anexa de consejos para una mejor planeación de tu proyecto para este módulo.
+
+- [**`POSTWORK SESIÓN 1`**](Postwork/Readme.md)
+
+<br/>
 
 
-
+</div>
 
