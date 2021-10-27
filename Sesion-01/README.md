@@ -20,7 +20,7 @@ Android Studio te ayudará a desarrollar tu app más productivamente a escala. A
 
 Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, viendo el significado de los distintos campos y opciones para su configuración.
 
-- [**`EJEMPLO 1`**](Ejemplo-01/Readme.md)
+- [**`EJEMPLO 1`**](./Ejemplo-01)
 
 ---
 
