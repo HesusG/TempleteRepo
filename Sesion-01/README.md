@@ -40,7 +40,6 @@ Una vez que el proyecto está creado, la estructura o forma en la que se organiz
 
 Ahora que tenemos mayor conocimiento de nuestro proyecto, vamos a configurar un emulador de algún dispositivo móvil para poder correr nuestra aplicación! :iphone:. Es decir, vamos a correr un dispositivo móvil virtual en nuestra computadora para simular la funcionalidad de nuestra app.
 
-- [**`EJEMPLO 3`**](./Ejemplo-03)
 - [**`RETO 1`**](./Reto-01)
 
 ---
@@ -51,7 +50,9 @@ Ahora que tenemos mayor conocimiento de nuestro proyecto, vamos a configurar un 
 
 Basta de emulaciones, ahora veamos como funciona en el mundo real. Nuestra app, por muy sencilla que sea ya está lista para ser instalada en un dispositivo móvil y para verla en acción.
 
-- [**`EJEMPLO 4`**](./Ejemplo-04)
+**Nota de experto:**
+  
+ + Recuerda que cada subtema puede contener un ejemplo, un reto, o más de un ejemplo y más de un reto, borrar esta línea después de haberla leído.
 
 ---
 
