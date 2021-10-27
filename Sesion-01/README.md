@@ -40,7 +40,7 @@ Una vez que el proyecto está creado, la estructura o forma en la que se organiz
 
 Ahora que tenemos mayor conocimiento de nuestro proyecto, vamos a configurar un emulador de algún dispositivo móvil para poder correr nuestra aplicación! :iphone:. Es decir, vamos a correr un dispositivo móvil virtual en nuestra computadora para simular la funcionalidad de nuestra app.
 
-- [**`EJEMPLO 3`**](./Ejemplo-03/Readme.md)
+- [**`EJEMPLO 3`**](./Ejemplo-03)
 - [**`RETO 1`**](Reto-01/Readme.md)
 
 ---
@@ -59,7 +59,7 @@ Basta de emulaciones, ahora veamos como funciona en el mundo real. Nuestra app, 
 
 Encuentra las indicaciones y consejos para reflejar los avances de tu proyecto de este módulo.
 
-- [**`POSTWORK SESIÓN 1`**](Postwork/Readme.md)
+- [**`POSTWORK SESIÓN 1`**](./Postwork/)
 
 <br/>
 
