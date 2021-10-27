@@ -30,7 +30,7 @@ Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, 
 
 Una vez que el proyecto está creado, la estructura o forma en la que se organiza es de suma importancia. No sólo nos ayuda a mantener nuestro código organizado, sino que también es importante para el funcionamiento de nuestra nueva app.
 
-- [**`EJEMPLO 2`**](Ejemplo-02/Readme.md)
+- [**`EJEMPLO 2`**](./Ejemplo-02)
 
 ---
 
