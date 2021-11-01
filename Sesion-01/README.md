@@ -31,7 +31,7 @@ Se detalla como crear un proyecto android desde nuestra IDE __Android Studio__, 
 Una vez que el proyecto está creado, la estructura o forma en la que se organiza es de suma importancia. No sólo nos ayuda a mantener nuestro código organizado, sino que también es importante para el funcionamiento de nuestra nueva app.
 
 - [**`EJEMPLO 2`**](./Ejemplo-02)
-
+- [**`RETO 1`**](./Reto-01)
 ---
 
 <img src="images/emulator.jpg" align="right" height="90"> 
@@ -40,8 +40,10 @@ Una vez que el proyecto está creado, la estructura o forma en la que se organiz
 
 Ahora que tenemos mayor conocimiento de nuestro proyecto, vamos a configurar un emulador de algún dispositivo móvil para poder correr nuestra aplicación! :iphone:. Es decir, vamos a correr un dispositivo móvil virtual en nuestra computadora para simular la funcionalidad de nuestra app.
 
-- [**`RETO 1`**](./Reto-01)
-
+**Nota al Experto:**
+  
+ + Recuerda que cada subtema puede contener un ejemplo, un reto, o más de un ejemplo y más de un reto. Recuerda borrar esta línea después de haberla leído.
+- [**`RETO 2`**](./Reto-02)
 ---
 
 <img src="images/chaomi.png" align="right" height="110"> 
@@ -50,10 +52,10 @@ Ahora que tenemos mayor conocimiento de nuestro proyecto, vamos a configurar un 
 
 Basta de emulaciones, ahora veamos como funciona en el mundo real. Nuestra app, por muy sencilla que sea ya está lista para ser instalada en un dispositivo móvil y para verla en acción.
 
-**Nota de experto:**
+**Nota al Experto:**
   
- + Recuerda que cada subtema puede contener un ejemplo, un reto, o más de un ejemplo y más de un reto, borrar esta línea después de haberla leído.
-
+ + Recuerda que cada subtema puede contener un ejemplo, un reto, o más de un ejemplo y más de un reto. Recuerda borrar esta línea después de haberla leído.
+- [**`RETO 3`**](./Reto-03)
 ---
 
 ### 3. Postwork :memo:
